@@ -1,0 +1,12 @@
+Personally Identifiable Information Detection
+
+Project Objectives
+*Python development using GitHub CodeSpaces
+*Learn software engineering best practices
+*Team collaboration using GitHub
+*Detect personally identifiable information using python 
+
+Sprint 1 - Team python development with GitHub and CodeSpaces
+Sprint 2 - Learning to identify PII   
+Sprint 3 - Completing the python application
+
